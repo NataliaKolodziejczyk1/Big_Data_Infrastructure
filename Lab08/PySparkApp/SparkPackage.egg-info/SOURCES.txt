@@ -1,0 +1,5 @@
+setup.py
+SparkPackage.egg-info/PKG-INFO
+SparkPackage.egg-info/SOURCES.txt
+SparkPackage.egg-info/dependency_links.txt
+SparkPackage.egg-info/top_level.txt
